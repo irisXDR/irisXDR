@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.png" alt="HellFireDevil18 Banner" width="100%" />
+  <img src="assets/header.png" alt="irisXDR Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -21,11 +21,11 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://gitstats.vercel.app/api?username=hellfiredevil18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://gitstats.vercel.app/api?username=irisXDR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://gitstreaks.vercel.app/?user=HellFireDevil18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://gitstreaks.vercel.app/?user=irisXDR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://gittrophy.vercel.app/?username=hellfiredevil18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://gittrophy.vercel.app/?username=irisXDR&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -50,8 +50,8 @@
 
 <div align="center">
   <h2>🤝 Connect With Me</h2>
-  <a href="https://telegram.me/HellFireDevil">
-    <img src="https://img.shields.io/badge/Telegram-@HellFireDevil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://telegram.me/irisXDR">
+    <img src="https://img.shields.io/badge/Telegram-@irisXDR-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   
 </div>
@@ -59,7 +59,7 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hellfiredevil18&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=irisXDR&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
